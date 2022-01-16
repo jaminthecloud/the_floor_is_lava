@@ -1,4 +1,4 @@
-# The Floor Is Lava
+# The Floor is Lava
 
 ## Description
 
