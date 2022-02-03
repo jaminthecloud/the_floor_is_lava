@@ -14,7 +14,7 @@ Mega: https://mega.nz/folder/JBl2HLaB#O-Jiyhh4S-6qD3uf2d06dQ
 
 ## Changes
 
-Please email [James Pennel](pennelljamesb@gmail.com) to request changes to this project.
+Please email [James Pennell](pennelljamesb@gmail.com) to request changes to this project.
 
 ## Learn More
 
